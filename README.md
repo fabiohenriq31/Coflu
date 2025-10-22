@@ -1,6 +1,6 @@
 # 🌀 Coflu
 
-<img src="./assets/logo-simbol.svg" alt="Coflu Branding" width="800"/>
+<img src="./src/assets/logo-simbol.svg" alt="Coflu Branding" width="800"/>
 
 O **Coflu** é um aplicativo de **finanças pessoais e familiares** com foco em colaboração.  
 Permite que casais ou grupos familiares administrem juntos suas finanças, metas e gastos, de forma **inteligente, leve e minimalista**.
@@ -16,7 +16,7 @@ Inspirado em conceitos de ERPs pessoais, ele permite que membros da família ou 
 
 ## 🎨 Identidade Visual
 
-<img src="./assets/design-system.jpeg" alt="Design System Coflu" width="800"/>
+<img src="./src/assets/design-system.jpeg" alt="Design System Coflu" width="800"/>
 
 A identidade visual foi pensada para transmitir **leveza, confiança e modernidade**, combinando tons suaves com tipografia minimalista.
 
